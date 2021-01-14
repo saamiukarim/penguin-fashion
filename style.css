@@ -1,0 +1,35 @@
+.buy-button{
+    background-color: rgb(164, 168, 70);
+    color: white;
+    border: 0;
+}
+.top-section{
+    background-color:rgb(255, 251, 240);
+}
+.border-card{
+    border: 0;
+    background-color: white;
+    
+}
+.card-height{
+    height: 120px;
+    
+    
+}
+.image-border{
+    border: 5px solid white;
+    
+}
+.image-background{
+    border-radius: 20px;
+}
+.card-radius{
+    border-radius: 20px;
+}
+.bottom-section img{
+    height: 100px;
+}
+.last-image{
+    position: relative;
+    right: 250px;
+}
